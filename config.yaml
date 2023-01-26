@@ -147,7 +147,7 @@ params:
       
       WeiMin is currently studying for a master's degree at the University of Zurich, majoring in data science and minoring in informatics.
       
-      Prior to that, she had two years of experience as an ERP engineer. She also worked as an internal auditor for five years and holds CIA (Certified Internal Auditor) and CISA (Certified Information Systems Auditor) certifications. Years of working experience have made her intimately familiar with the governance, management and implementation of information technology and relevant problems faced by businesses, also understand the importance of information technology to internal control of enterprises. She had some thoughts of her own on the subjects. Work experience not only gave her extensive experience in information systems implementation, risk assessment and auditing related to information technology and information systems, but also gave her the opportunity to accumulate rich experience in team management.
+      Prior to that, she had two years of experience as an ERP engineer. She also worked as an internal auditor for five years and holds CIA (Certified Internal Auditor) and CISA (Certified Information Systems Auditor) certifications. Years of working experience have made her intimately familiar with the governance, management and implementation of information technology and relevant problems faced by businesses, also understand the importance of information technology to internal control of enterprises. She had some thoughts of her own on the subjects. Work experience not only gave her extensive experience in information systems implementation, risk assessment and auditing related to information technology and information systems, but also gave her the opportunity to accumulate rich experience in project management.
       
       In addition to studying and working, she is someone who enjoys enjoying life by hiking, playing squash, tennis, going to the concert hall alone to enjoy the symphony, watching animation, and is addicted to watching the starry sky.
     #skills:
@@ -168,7 +168,7 @@ params:
     items:
       - job: "Senior Consultant"
         company: "Deloitte Touche Tohmatsu"
-        #companyUrl: "https://example.com"
+        companyUrl: "https://www2.deloitte.com/cn/en.html"
         date: "October 2018 - Novermber 2021"
         content: |-
           - Took part in 12 projects from 2018.10 to 2021.08, mainly in the financial industry, including banks, securities, and finance companies. Accumulated rich experience in information technology-related risk assessment and audit in financial industry, especially in information technology outsourcing management, data center establishment and change, important information system development and production, and data governance
@@ -181,7 +181,7 @@ params:
           
       - job: "Audit Assistant"
         company: "Pwc"
-        #companyUrl: "https://example.com"
+        companyUrl: "https://www.pwccn.com/"
         date: "September 2015 - August 2018"
         content: |-
           - Undertook part of the system implementation work independently and promoted the on-time acceptance of projects  
@@ -191,7 +191,7 @@ params:
           
       - job: "ERP Implementation Engineer"
         company: "Inspur Group"
-        #companyUrl: "https://example.com"
+        companyUrl: "https://en.inspur.com/"
         date: "July 2013 - August 2015"
         content: |-
           - Undertook part of the system implementation work independently and promoted the on-time acceptance of projects  
@@ -213,50 +213,50 @@ params:
 
           #- Lead backend developer for a product.
           #- Created a frontend design for a product.
-
-      
+   
   # Education
   education:
     enable: true
     # title: "Custom Name"
     index: false
     items:
-      - title: "Master of Business Administration"
+      - title: "Master of Science"
         school:
-          name: "University of California, Berkeley"
-          url: "https://example.org"
-        date: "2013 - 2015"
-        GPA: "3.8 out of 5.0"
-        content: |-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-      - title: "Bachelor of Science in Computer Science"
+          name: "University of Zurich"
+          url: "https://www.uzh.ch/de.html"
+        date: "2022 - current"
+        #GPA: "3.8 out of 5.0"
+        #content: |-
+          #Extracurricular Activities
+            #- Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+            #- Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+      - title: "Bachelor of Management in Information management and information system"
         school:
-          name: "Massachusetts Institute of Technology"
-          url: "https://example.org"
+          name: "Beihang University"
+          url: "https://www.buaa.edu.cn/"
         date: "2009 - 2013"
-        GPA: "3.9 out of 5.0"
-        content: |-
-          I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
-          - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
-          - Face mask detection using a single convolutional neural network.
+        #GPA: "3.9 out of 5.0"
+        #content: |-
+          #I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
+          #- [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
+          #- Face mask detection using a single convolutional neural network.
 
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-        featuredLink:
-          enable: true
-          name: "My academic record"
-          url: "https://example.com"
-      - title: "High School"
+          #Extracurricular Activities
+            #- Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+            #- Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+        #featuredLink:
+          #enable: true
+          #name: "My academic record"
+          #url: "https://example.com"
+      - title: "Bachelor of Law"
         school:
-          name: "Thomas Jefferson High School for Science and Technology."
-          url: "https://example.org"
-        GPA: "4.2 out of 5.0"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
+          name: "Beihang University"
+          url: "https://www.buaa.edu.cn/"
+        date: "2010 - 2013"
+        #GPA: "4.2 out of 5.0"
+        #featuredLink:
+          #enable: true
+          #url: "https://example.com"
 
   # Achievements
   #achievements:
